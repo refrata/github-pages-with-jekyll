@@ -1,9 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Hi"
 ---
-
-I'm glad you are here. I plan to talk about 
-theme | tutor
+Bitcoin | Ethereum
 ------------ | -------------
-AI | Refrata
-Machine Learning | Refrata
+1BTC | 1ETH
+850m | 59m
+=======
+I'm glad you are here. I plan to talk about cryptocurrency
